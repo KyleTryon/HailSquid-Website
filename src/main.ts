@@ -1,5 +1,5 @@
 import "./style.css";
-import bgImg from "./techsquidtv-bg.png";
+import bgImg from "./techsquidtv-bg.webp";
 
 const body = document.querySelector("body") as HTMLBodyElement;
 body.style.backgroundImage = `linear-gradient(175deg, rgba(88,28,135,1) 0%, rgba(76,29,149,0.9) 50%, rgba(49,46,129,0.99) 100%),
